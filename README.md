@@ -17,9 +17,7 @@ A simple yet powerful Flask web application that allows users to manage their pe
 - [SQLAlchemy](https://www.sqlalchemy.org/) - Database ORM
 - [SQLite](https://www.sqlite.org/index.html) - Lightweight database engine
 
-## 📸 Screenshots
 
-> *(Optional) Add screenshots of the UI here — like `index.html`, `add.html`, and `edit_rating.html`.*
 
 ## 🏗️ Project Structure
 
